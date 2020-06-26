@@ -1,0 +1,445 @@
+
+22-06-2020 14:55:34.1592837734.8739 [::1][5ef0c6][info] Parent plugin start installation!
+22-06-2020 14:55:34.1592837734.878 [::1][5ef0c6][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.4.2
+22-06-2020 14:55:35.1592837735.0118 [::1][5ef0c6][info] Parent plugin installation complete!
+22-06-2020 14:55:47.1592837747.5298 [::1][5ef0c6][info] Try to create backup directory. Backup dir: (C:/wamp64/www/lederg/wp-content/uploads/wio_backup)
+22-06-2020 15:01:23.1592838083.0546 [::1][5ef0c7][info] Try to create backup directory. Backup dir: (C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06)
+22-06-2020 15:01:23.1592838083.5163 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/header-logo.jpg) to a remote server (server_1).
+22-06-2020 15:01:28.1592838088.0297 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:28.1592838088.3885 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/header-logo-150x150.jpg) to a remote server (server_1).
+22-06-2020 15:01:28.1592838088.568 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:28.1592838088.6759 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/header-logo-300x200.jpg) to a remote server (server_1).
+22-06-2020 15:01:28.1592838088.9308 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:29.1592838089.1283 [::1][5ef0c7][debug] New queue created #1, attributes values: {"server_id":null,"object_id":1432,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":838818,"final_size":207031,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":811035,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592838089}
+22-06-2020 15:01:31.1592838091.5462 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol1a.jpg) to a remote server (server_1).
+22-06-2020 15:01:33.1592838093.2441 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:33.1592838093.454 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol1a-150x150.jpg) to a remote server (server_1).
+22-06-2020 15:01:33.1592838093.6214 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:33.1592838093.7761 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol1a-300x169.jpg) to a remote server (server_1).
+22-06-2020 15:01:33.1592838093.9949 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:34.1592838094.1982 [::1][5ef0c7][debug] New queue created #2, attributes values: {"server_id":null,"object_id":1433,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":206093,"final_size":74747,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":192823,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592838094}
+22-06-2020 15:01:36.1592838096.6644 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol1b.jpg) to a remote server (server_1).
+22-06-2020 15:01:37.1592838097.8809 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:38.1592838098.104 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol1b-150x150.jpg) to a remote server (server_1).
+22-06-2020 15:01:38.1592838098.2625 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:38.1592838098.3635 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol1b-300x169.jpg) to a remote server (server_1).
+22-06-2020 15:01:38.1592838098.5601 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:38.1592838098.6739 [::1][5ef0c7][debug] New queue created #3, attributes values: {"server_id":null,"object_id":1434,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":174303,"final_size":62077,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":161743,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592838098}
+22-06-2020 15:01:41.1592838101.0631 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol1c.jpg) to a remote server (server_1).
+22-06-2020 15:01:42.1592838102.3902 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:42.1592838102.6022 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol1c-150x150.jpg) to a remote server (server_1).
+22-06-2020 15:01:42.1592838102.7734 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:42.1592838102.8757 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol1c-300x169.jpg) to a remote server (server_1).
+22-06-2020 15:01:43.1592838103.0805 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:43.1592838103.2287 [::1][5ef0c7][debug] New queue created #4, attributes values: {"server_id":null,"object_id":1435,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":190495,"final_size":66248,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":177882,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592838103}
+22-06-2020 15:01:45.1592838105.6724 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol2a.jpg) to a remote server (server_1).
+22-06-2020 15:01:46.1592838106.9384 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:47.1592838107.1486 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol2a-150x150.jpg) to a remote server (server_1).
+22-06-2020 15:01:47.1592838107.3349 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:47.1592838107.4376 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol2a-300x169.jpg) to a remote server (server_1).
+22-06-2020 15:01:47.1592838107.616 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:47.1592838107.7215 [::1][5ef0c7][debug] New queue created #5, attributes values: {"server_id":null,"object_id":1436,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":236928,"final_size":65892,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":223363,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592838107}
+22-06-2020 15:01:50.1592838110.1021 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol2b.jpg) to a remote server (server_1).
+22-06-2020 15:01:51.1592838111.3737 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:51.1592838111.5889 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol2b-150x150.jpg) to a remote server (server_1).
+22-06-2020 15:01:51.1592838111.7573 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:51.1592838111.8607 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol2b-300x169.jpg) to a remote server (server_1).
+22-06-2020 15:01:52.1592838112.0471 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:52.1592838112.1663 [::1][5ef0c7][debug] New queue created #6, attributes values: {"server_id":null,"object_id":1437,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":243180,"final_size":71445,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":229193,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592838112}
+22-06-2020 15:01:54.1592838114.5602 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol2c.jpg) to a remote server (server_1).
+22-06-2020 15:01:56.1592838116.1643 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:56.1592838116.5076 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol2c-150x150.jpg) to a remote server (server_1).
+22-06-2020 15:01:56.1592838116.7153 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:56.1592838116.8266 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol2c-300x169.jpg) to a remote server (server_1).
+22-06-2020 15:01:57.1592838117.0172 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:01:58.1592838118.1341 [::1][5ef0c7][debug] New queue created #7, attributes values: {"server_id":null,"object_id":1438,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":225806,"final_size":61883,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":213666,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592838118}
+22-06-2020 15:02:00.1592838120.5406 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol3a.jpg) to a remote server (server_1).
+22-06-2020 15:02:01.1592838121.903 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:02:02.1592838122.1128 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol3a-150x150.jpg) to a remote server (server_1).
+22-06-2020 15:02:02.1592838122.2943 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:02:03.1592838123.4039 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol3a-300x169.jpg) to a remote server (server_1).
+22-06-2020 15:02:03.1592838123.5746 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:02:03.1592838123.6832 [::1][5ef0c7][debug] New queue created #8, attributes values: {"server_id":null,"object_id":1439,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":434545,"final_size":73117,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":420638,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592838123}
+22-06-2020 15:02:06.1592838126.1266 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol3b.jpg) to a remote server (server_1).
+22-06-2020 15:02:07.1592838127.6695 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:02:07.1592838127.889 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol3b-150x150.jpg) to a remote server (server_1).
+22-06-2020 15:02:08.1592838128.0596 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:02:08.1592838128.1636 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol3b-300x169.jpg) to a remote server (server_1).
+22-06-2020 15:02:08.1592838128.3329 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:02:08.1592838128.4407 [::1][5ef0c7][debug] New queue created #9, attributes values: {"server_id":null,"object_id":1440,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":442253,"final_size":76344,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":427515,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592838128}
+22-06-2020 15:02:10.1592838130.9026 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol3c.jpg) to a remote server (server_1).
+22-06-2020 15:02:12.1592838132.248 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:02:12.1592838132.4568 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol3c-150x150.jpg) to a remote server (server_1).
+22-06-2020 15:02:12.1592838132.6271 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:02:12.1592838132.7292 [::1][5ef0c7][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/stol3c-300x169.jpg) to a remote server (server_1).
+22-06-2020 15:02:12.1592838132.9024 [::1][5ef0c7][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:02:13.1592838133.0245 [::1][5ef0c7][debug] New queue created #10, attributes values: {"server_id":null,"object_id":1441,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":455589,"final_size":81446,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":440104,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592838133}
+22-06-2020 15:09:13.1592838553.1412 [::1][5ef0c9][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/offer-bg1.jpg) to a remote server (server_1).
+22-06-2020 15:09:16.1592838556.4179 [::1][5ef0c9][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:09:16.1592838556.7538 [::1][5ef0c9][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/offer-bg1-150x150.jpg) to a remote server (server_1).
+22-06-2020 15:09:16.1592838556.9126 [::1][5ef0c9][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:09:17.1592838557.0775 [::1][5ef0c9][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/offer-bg1-300x200.jpg) to a remote server (server_1).
+22-06-2020 15:09:17.1592838557.2887 [::1][5ef0c9][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:09:17.1592838557.4145 [::1][5ef0c9][debug] New queue created #11, attributes values: {"server_id":null,"object_id":1444,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":716639,"final_size":175368,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":689537,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592838557}
+22-06-2020 15:33:32.1592840012.2226 [::1][5ef0cf][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+22-06-2020 15:33:32.1592840012.9591 [::1][5ef0cf][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:33:33.1592840013.1037 [::1][5ef0cf][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+22-06-2020 15:33:33.1592840013.2689 [::1][5ef0cf][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:33:33.1592840013.4112 [::1][5ef0cf][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+22-06-2020 15:33:33.1592840013.577 [::1][5ef0cf][info] File successfully uploaded to remote server (server_1).
+22-06-2020 15:33:33.1592840013.7246 [::1][5ef0cf][debug] New queue created #12, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592840013}
+23-06-2020 13:54:54.1592920494.1734 [::1][5ef209][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave1.png) to a remote server (server_1).
+23-06-2020 13:54:57.1592920497.6758 [::1][5ef209][info] File successfully uploaded to remote server (server_1).
+23-06-2020 13:54:58.1592920498.9454 [::1][5ef209][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave1-150x150.png) to a remote server (server_1).
+23-06-2020 13:54:59.1592920499.3055 [::1][5ef209][info] File successfully uploaded to remote server (server_1).
+23-06-2020 13:54:59.1592920499.4479 [::1][5ef209][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave1-292x300.png) to a remote server (server_1).
+23-06-2020 13:55:01.1592920501.7015 [::1][5ef209][info] File successfully uploaded to remote server (server_1).
+23-06-2020 13:55:01.1592920501.9102 [::1][5ef209][debug] New queue created #13, attributes values: {"server_id":null,"object_id":1502,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":385855,"final_size":148936,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":265192,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592920501}
+23-06-2020 13:55:03.1592920503.0226 [::1][5ef209][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave2.png) to a remote server (server_1).
+23-06-2020 13:55:03.1592920503.8302 [::1][5ef209][info] File successfully uploaded to remote server (server_1).
+23-06-2020 13:55:04.1592920504.9954 [::1][5ef209][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave2-150x150.png) to a remote server (server_1).
+23-06-2020 13:55:05.1592920505.2742 [::1][5ef209][info] File successfully uploaded to remote server (server_1).
+23-06-2020 13:55:06.1592920506.4105 [::1][5ef209][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave2-300x300.png) to a remote server (server_1).
+23-06-2020 13:55:08.1592920508.5423 [::1][5ef209][info] File successfully uploaded to remote server (server_1).
+23-06-2020 13:55:09.1592920509.8065 [::1][5ef209][debug] New queue created #14, attributes values: {"server_id":null,"object_id":1503,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":145026,"final_size":52942,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":72998,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592920509}
+23-06-2020 13:55:11.1592920511.3511 [::1][5ef209][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave3.png) to a remote server (server_1).
+23-06-2020 13:55:13.1592920513.2754 [::1][5ef209][info] File successfully uploaded to remote server (server_1).
+23-06-2020 13:55:13.1592920513.488 [::1][5ef209][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave3-150x150.png) to a remote server (server_1).
+23-06-2020 13:55:13.1592920513.9281 [::1][5ef209][info] File successfully uploaded to remote server (server_1).
+23-06-2020 13:55:14.1592920514.0819 [::1][5ef209][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave3-300x214.png) to a remote server (server_1).
+23-06-2020 13:55:14.1592920514.6931 [::1][5ef209][info] File successfully uploaded to remote server (server_1).
+23-06-2020 13:55:14.1592920514.8486 [::1][5ef209][debug] New queue created #15, attributes values: {"server_id":null,"object_id":1504,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":282890,"final_size":109480,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":192152,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592920514}
+23-06-2020 13:55:16.1592920516.239 [::1][5ef209][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave4.png) to a remote server (server_1).
+23-06-2020 13:55:17.1592920517.9906 [::1][5ef209][info] File successfully uploaded to remote server (server_1).
+23-06-2020 13:55:18.1592920518.2121 [::1][5ef209][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave4-150x150.png) to a remote server (server_1).
+23-06-2020 13:55:18.1592920518.5677 [::1][5ef209][info] File successfully uploaded to remote server (server_1).
+23-06-2020 13:55:18.1592920518.6795 [::1][5ef209][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave4-300x202.png) to a remote server (server_1).
+23-06-2020 13:55:19.1592920519.1572 [::1][5ef209][info] File successfully uploaded to remote server (server_1).
+23-06-2020 13:55:19.1592920519.3089 [::1][5ef209][debug] New queue created #16, attributes values: {"server_id":null,"object_id":1505,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":249890,"final_size":135380,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":175095,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592920519}
+23-06-2020 13:55:20.1592920520.4511 [::1][5ef209][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave5.png) to a remote server (server_1).
+23-06-2020 13:55:20.1592920520.9102 [::1][5ef209][info] File successfully uploaded to remote server (server_1).
+23-06-2020 13:55:22.1592920522.067 [::1][5ef209][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave5-150x150.png) to a remote server (server_1).
+23-06-2020 13:55:22.1592920522.448 [::1][5ef209][info] File successfully uploaded to remote server (server_1).
+23-06-2020 13:55:22.1592920522.5685 [::1][5ef209][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave5-300x237.png) to a remote server (server_1).
+23-06-2020 13:55:23.1592920523.1403 [::1][5ef209][info] File successfully uploaded to remote server (server_1).
+23-06-2020 13:55:23.1592920523.2879 [::1][5ef209][debug] New queue created #17, attributes values: {"server_id":null,"object_id":1506,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":114857,"final_size":63046,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":38067,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592920523}
+23-06-2020 14:04:16.1592921056.859 [::1][5ef20b][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/jesion.jpg) to a remote server (server_1).
+23-06-2020 14:04:18.1592921058.0214 [::1][5ef20b][info] File successfully uploaded to remote server (server_1).
+23-06-2020 14:04:18.1592921058.2404 [::1][5ef20b][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/jesion-150x150.jpg) to a remote server (server_1).
+23-06-2020 14:04:19.1592921059.4244 [::1][5ef20b][info] File successfully uploaded to remote server (server_1).
+23-06-2020 14:04:19.1592921059.531 [::1][5ef20b][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/jesion-150x300.jpg) to a remote server (server_1).
+23-06-2020 14:04:20.1592921060.6943 [::1][5ef20b][info] File successfully uploaded to remote server (server_1).
+23-06-2020 14:04:21.1592921061.8502 [::1][5ef20b][debug] New queue created #18, attributes values: {"server_id":null,"object_id":1509,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":75609,"final_size":24692,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":68684,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592921061}
+23-06-2020 14:04:56.1592921096.775 [::1][5ef20c][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/buk.jpg) to a remote server (server_1).
+23-06-2020 14:05:00.1592921100.9187 [::1][5ef20c][info] File successfully uploaded to remote server (server_1).
+23-06-2020 14:05:02.1592921102.2156 [::1][5ef20c][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/buk-150x150.jpg) to a remote server (server_1).
+23-06-2020 14:05:02.1592921102.3858 [::1][5ef20c][info] File successfully uploaded to remote server (server_1).
+23-06-2020 14:05:02.1592921102.511 [::1][5ef20c][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/buk-300x300.jpg) to a remote server (server_1).
+23-06-2020 14:05:02.1592921102.7434 [::1][5ef20c][info] File successfully uploaded to remote server (server_1).
+23-06-2020 14:05:02.1592921102.9271 [::1][5ef20c][debug] New queue created #19, attributes values: {"server_id":null,"object_id":1510,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":136153,"final_size":107950,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":118142,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592921102}
+23-06-2020 14:05:05.1592921105.3885 [::1][5ef20c][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/sunny-oak.jpg) to a remote server (server_1).
+23-06-2020 14:05:08.1592921108.4772 [::1][5ef20c][info] File successfully uploaded to remote server (server_1).
+23-06-2020 14:05:09.1592921109.0515 [::1][5ef20c][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/sunny-oak-150x150.jpg) to a remote server (server_1).
+23-06-2020 14:05:12.1592921112.295 [::1][5ef20c][info] File successfully uploaded to remote server (server_1).
+23-06-2020 14:05:12.1592921112.4594 [::1][5ef20c][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/sunny-oak-164x300.jpg) to a remote server (server_1).
+23-06-2020 14:05:13.1592921113.9376 [::1][5ef20c][info] File successfully uploaded to remote server (server_1).
+23-06-2020 14:05:15.1592921115.0462 [::1][5ef20c][debug] New queue created #20, attributes values: {"server_id":null,"object_id":1511,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":204668,"final_size":96009,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":192001,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592921115}
+23-06-2020 14:07:48.1592921268.9014 [::1][5ef20c][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave6.png) to a remote server (server_1).
+23-06-2020 14:07:51.1592921271.7333 [::1][5ef20c][info] File successfully uploaded to remote server (server_1).
+23-06-2020 14:07:52.1592921272.2996 [::1][5ef20c][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave6-150x150.png) to a remote server (server_1).
+23-06-2020 14:07:52.1592921272.495 [::1][5ef20c][info] File successfully uploaded to remote server (server_1).
+23-06-2020 14:07:52.1592921272.6003 [::1][5ef20c][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/pngwave6-300x290.png) to a remote server (server_1).
+23-06-2020 14:07:52.1592921272.9399 [::1][5ef20c][info] File successfully uploaded to remote server (server_1).
+23-06-2020 14:07:53.1592921273.0915 [::1][5ef20c][debug] New queue created #21, attributes values: {"server_id":null,"object_id":1513,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":164359,"final_size":151229,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":127339,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592921273}
+23-06-2020 14:10:08.1592921408.2848 [::1][5ef20d][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/diamond1.png) to a remote server (server_1).
+23-06-2020 14:10:08.1592921408.6124 [::1][5ef20d][info] File successfully uploaded to remote server (server_1).
+23-06-2020 14:10:08.1592921408.7591 [::1][5ef20d][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/diamond1-150x150.png) to a remote server (server_1).
+23-06-2020 14:10:12.1592921412.9466 [::1][5ef20d][info] File successfully uploaded to remote server (server_1).
+23-06-2020 14:10:19.1592921419.1251 [::1][5ef20d][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/diamond1-300x300.png) to a remote server (server_1).
+23-06-2020 14:10:19.1592921419.3516 [::1][5ef20d][info] File successfully uploaded to remote server (server_1).
+23-06-2020 14:10:19.1592921419.463 [::1][5ef20d][debug] New queue created #22, attributes values: {"server_id":null,"object_id":1515,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":25272,"final_size":19641,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":10293,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1592921419}
+25-06-2020 13:35:00.1593092100.6359 [127.0.0.1][5ef4a8][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:35:00.1593092100.6409 [127.0.0.1][5ef4a8][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:35:00.1593092100.6437 [127.0.0.1][5ef4a8][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:35:00.1593092100.6491 [127.0.0.1][5ef4a8][debug] Deleted queue item #12
+25-06-2020 13:35:00.1593092100.6588 [127.0.0.1][5ef4a8][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:35:01.1593092101.4971 [127.0.0.1][5ef4a8][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:35:01.1593092101.647 [127.0.0.1][5ef4a8][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:35:01.1593092101.8157 [127.0.0.1][5ef4a8][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:35:01.1593092101.9716 [127.0.0.1][5ef4a8][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:35:02.1593092102.1498 [127.0.0.1][5ef4a8][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:35:02.1593092102.3076 [127.0.0.1][5ef4a8][debug] New queue created #23, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593092102}
+25-06-2020 13:35:02.1593092102.3865 [127.0.0.1][5ef4a8][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:35:02.1593092102.3896 [127.0.0.1][5ef4a8][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:35:02.1593092102.3915 [127.0.0.1][5ef4a8][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:35:02.1593092102.394 [127.0.0.1][5ef4a8][debug] Deleted queue item #23
+25-06-2020 13:35:02.1593092102.3994 [127.0.0.1][5ef4a8][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:35:02.1593092102.6019 [127.0.0.1][5ef4a8][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:35:02.1593092102.7224 [127.0.0.1][5ef4a8][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:35:02.1593092102.897 [127.0.0.1][5ef4a8][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:35:04.1593092104.0314 [127.0.0.1][5ef4a8][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:35:04.1593092104.2016 [127.0.0.1][5ef4a8][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:35:04.1593092104.3051 [127.0.0.1][5ef4a8][debug] New queue created #24, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593092104}
+25-06-2020 13:37:15.1593092235.7544 [127.0.0.1][5ef4a8][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:37:15.1593092235.7567 [127.0.0.1][5ef4a8][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:37:15.1593092235.7589 [127.0.0.1][5ef4a8][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:37:15.1593092235.7644 [127.0.0.1][5ef4a8][debug] Deleted queue item #24
+25-06-2020 13:37:15.1593092235.7707 [127.0.0.1][5ef4a8][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:37:17.1593092237.3483 [127.0.0.1][5ef4a8][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:37:17.1593092237.4535 [127.0.0.1][5ef4a8][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:37:17.1593092237.6249 [127.0.0.1][5ef4a8][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:37:17.1593092237.7304 [127.0.0.1][5ef4a8][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:37:17.1593092237.9046 [127.0.0.1][5ef4a8][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:37:18.1593092238.0072 [127.0.0.1][5ef4a8][debug] New queue created #25, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593092238}
+25-06-2020 13:37:18.1593092238.0866 [127.0.0.1][5ef4a8][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:37:18.1593092238.0891 [127.0.0.1][5ef4a8][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:37:18.1593092238.0909 [127.0.0.1][5ef4a8][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:37:18.1593092238.0932 [127.0.0.1][5ef4a8][debug] Deleted queue item #25
+25-06-2020 13:37:18.1593092238.0994 [127.0.0.1][5ef4a8][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:37:18.1593092238.2814 [127.0.0.1][5ef4a8][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:37:18.1593092238.3863 [127.0.0.1][5ef4a8][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:37:18.1593092238.563 [127.0.0.1][5ef4a8][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:37:18.1593092238.6638 [127.0.0.1][5ef4a8][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:37:18.1593092238.8807 [127.0.0.1][5ef4a8][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:37:18.1593092238.9844 [127.0.0.1][5ef4a8][debug] New queue created #26, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593092238}
+25-06-2020 13:39:41.1593092381.6934 [::1][5ef4a9][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:39:41.1593092381.6964 [::1][5ef4a9][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:39:41.1593092381.6983 [::1][5ef4a9][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:39:41.1593092381.7032 [::1][5ef4a9][debug] Deleted queue item #26
+25-06-2020 13:39:41.1593092381.7085 [::1][5ef4a9][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:39:42.1593092382.0925 [::1][5ef4a9][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:39:42.1593092382.1949 [::1][5ef4a9][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:39:42.1593092382.365 [::1][5ef4a9][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:39:42.1593092382.467 [::1][5ef4a9][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:39:42.1593092382.6446 [::1][5ef4a9][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:39:42.1593092382.7891 [::1][5ef4a9][debug] New queue created #27, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593092382}
+25-06-2020 13:39:42.1593092382.8682 [::1][5ef4a9][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:39:42.1593092382.8706 [::1][5ef4a9][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:39:42.1593092382.8723 [::1][5ef4a9][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:39:42.1593092382.8746 [::1][5ef4a9][debug] Deleted queue item #27
+25-06-2020 13:39:42.1593092382.8805 [::1][5ef4a9][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:39:44.1593092384.1169 [::1][5ef4a9][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:39:44.1593092384.2352 [::1][5ef4a9][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:39:44.1593092384.4045 [::1][5ef4a9][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:39:44.1593092384.5177 [::1][5ef4a9][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:39:44.1593092384.704 [::1][5ef4a9][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:39:44.1593092384.831 [::1][5ef4a9][debug] New queue created #28, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593092384}
+25-06-2020 13:43:20.1593092600.17 [::1][5ef4a9][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:43:20.1593092600.1725 [::1][5ef4a9][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:43:20.1593092600.1743 [::1][5ef4a9][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:43:20.1593092600.1823 [::1][5ef4a9][debug] Deleted queue item #28
+25-06-2020 13:43:20.1593092600.188 [::1][5ef4a9][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:43:20.1593092600.4414 [::1][5ef4a9][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:43:21.1593092601.5966 [::1][5ef4a9][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:43:21.1593092601.8087 [::1][5ef4a9][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:43:21.1593092601.9599 [::1][5ef4a9][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:43:22.1593092602.146 [::1][5ef4a9][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:43:22.1593092602.289 [::1][5ef4a9][debug] New queue created #29, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593092602}
+25-06-2020 13:43:22.1593092602.3719 [::1][5ef4a9][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:43:22.1593092602.3744 [::1][5ef4a9][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:43:22.1593092602.3761 [::1][5ef4a9][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:43:22.1593092602.3785 [::1][5ef4a9][debug] Deleted queue item #29
+25-06-2020 13:43:22.1593092602.3846 [::1][5ef4a9][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:43:22.1593092602.578 [::1][5ef4a9][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:43:22.1593092602.6891 [::1][5ef4a9][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:43:22.1593092602.8943 [::1][5ef4a9][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:43:22.1593092602.9987 [::1][5ef4a9][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:43:23.1593092603.1807 [::1][5ef4a9][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:43:23.1593092603.2852 [::1][5ef4a9][debug] New queue created #30, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593092603}
+25-06-2020 13:43:58.1593092638.2581 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:43:58.1593092638.2611 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:43:58.1593092638.2629 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:43:58.1593092638.2678 [::1][5ef4aa][debug] Deleted queue item #30
+25-06-2020 13:43:58.1593092638.2732 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:43:58.1593092638.4654 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:43:58.1593092638.5652 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:43:58.1593092638.7382 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:43:58.1593092638.8622 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:43:59.1593092639.0399 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:43:59.1593092639.146 [::1][5ef4aa][debug] New queue created #31, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593092639}
+25-06-2020 13:43:59.1593092639.2279 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:43:59.1593092639.2307 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:43:59.1593092639.2325 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:43:59.1593092639.235 [::1][5ef4aa][debug] Deleted queue item #31
+25-06-2020 13:43:59.1593092639.2409 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:43:59.1593092639.4364 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:43:59.1593092639.5392 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:43:59.1593092639.7366 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:43:59.1593092639.8443 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:44:00.1593092640.0307 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:44:00.1593092640.1435 [::1][5ef4aa][debug] New queue created #32, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593092640}
+25-06-2020 13:45:20.1593092720.4948 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:45:20.1593092720.4972 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:45:20.1593092720.4989 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:45:20.1593092720.5068 [::1][5ef4aa][debug] Deleted queue item #32
+25-06-2020 13:45:20.1593092720.5124 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:45:21.1593092721.2516 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:45:21.1593092721.3711 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:45:21.1593092721.5399 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:45:21.1593092721.6496 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:45:22.1593092722.8565 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:45:22.1593092722.9653 [::1][5ef4aa][debug] New queue created #33, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593092722}
+25-06-2020 13:45:23.1593092723.048 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:45:23.1593092723.0506 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:45:23.1593092723.0525 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:45:23.1593092723.0548 [::1][5ef4aa][debug] Deleted queue item #33
+25-06-2020 13:45:23.1593092723.0609 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:45:24.1593092724.3272 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:45:24.1593092724.4309 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:45:24.1593092724.6175 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:45:24.1593092724.7182 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:45:24.1593092724.9174 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:45:25.1593092725.0219 [::1][5ef4aa][debug] New queue created #34, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593092725}
+25-06-2020 13:45:47.1593092747.1932 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:45:47.1593092747.1955 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:45:47.1593092747.1972 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:45:47.1593092747.2024 [::1][5ef4aa][debug] Deleted queue item #34
+25-06-2020 13:45:47.1593092747.208 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:45:47.1593092747.4961 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:45:47.1593092747.5998 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:45:47.1593092747.7694 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:45:47.1593092747.8746 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:45:48.1593092748.0467 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:45:48.1593092748.1531 [::1][5ef4aa][debug] New queue created #35, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593092748}
+25-06-2020 13:45:48.1593092748.2344 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:45:48.1593092748.2375 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:45:48.1593092748.2393 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:45:48.1593092748.2417 [::1][5ef4aa][debug] Deleted queue item #35
+25-06-2020 13:45:48.1593092748.2473 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:45:48.1593092748.4692 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:45:48.1593092748.5704 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:45:49.1593092749.7985 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:45:50.1593092750.1567 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:45:50.1593092750.3524 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:45:50.1593092750.4628 [::1][5ef4aa][debug] New queue created #36, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593092750}
+25-06-2020 13:46:10.1593092770.6045 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:46:10.1593092770.607 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:46:10.1593092770.6086 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:46:10.1593092770.6165 [::1][5ef4aa][debug] Deleted queue item #36
+25-06-2020 13:46:10.1593092770.6226 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:46:11.1593092771.1112 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:46:11.1593092771.2157 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:46:11.1593092771.4069 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:46:11.1593092771.5125 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:46:11.1593092771.8043 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:46:11.1593092771.9115 [::1][5ef4aa][debug] New queue created #37, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593092771}
+25-06-2020 13:46:11.1593092771.9893 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:46:11.1593092771.9916 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:46:11.1593092771.9932 [::1][5ef4aa][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:46:11.1593092771.9959 [::1][5ef4aa][debug] Deleted queue item #37
+25-06-2020 13:46:12.1593092772.0019 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:46:12.1593092772.1925 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:46:12.1593092772.3045 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:46:13.1593092773.4669 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:46:13.1593092773.5685 [::1][5ef4aa][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:46:13.1593092773.7501 [::1][5ef4aa][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:46:14.1593092774.8976 [::1][5ef4aa][debug] New queue created #38, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593092774}
+25-06-2020 13:52:42.1593093162.6413 [::1][5ef4ac][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:52:42.1593093162.6437 [::1][5ef4ac][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:52:42.1593093162.6453 [::1][5ef4ac][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:52:42.1593093162.6508 [::1][5ef4ac][debug] Deleted queue item #38
+25-06-2020 13:52:42.1593093162.6564 [::1][5ef4ac][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:52:43.1593093163.0673 [::1][5ef4ac][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:52:44.1593093164.2148 [::1][5ef4ac][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:52:44.1593093164.3901 [::1][5ef4ac][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:52:44.1593093164.548 [::1][5ef4ac][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:52:44.1593093164.725 [::1][5ef4ac][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:52:44.1593093164.8301 [::1][5ef4ac][debug] New queue created #39, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593093164}
+25-06-2020 13:52:44.1593093164.9083 [::1][5ef4ac][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1.png.
+25-06-2020 13:52:44.1593093164.9106 [::1][5ef4ac][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-150x150.png.
+25-06-2020 13:52:44.1593093164.9124 [::1][5ef4ac][info] Restored file: C:/wamp64/www/lederg/wp-content/uploads/wio_backup/2020/06/logo-1-300x120.png.
+25-06-2020 13:52:44.1593093164.9146 [::1][5ef4ac][debug] Deleted queue item #39
+25-06-2020 13:52:44.1593093164.9208 [::1][5ef4ac][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1.png) to a remote server (server_1).
+25-06-2020 13:52:45.1593093165.1273 [::1][5ef4ac][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:52:45.1593093165.2301 [::1][5ef4ac][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-150x150.png) to a remote server (server_1).
+25-06-2020 13:52:45.1593093165.4494 [::1][5ef4ac][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:52:46.1593093166.5931 [::1][5ef4ac][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/logo-1-300x120.png) to a remote server (server_1).
+25-06-2020 13:52:46.1593093166.7681 [::1][5ef4ac][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:52:46.1593093166.8747 [::1][5ef4ac][debug] New queue created #40, attributes values: {"server_id":null,"object_id":1429,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":15071,"final_size":8486,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":6416,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593093166}
+25-06-2020 13:56:59.1593093419.1606 [::1][5ef4ad][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/carpenter.jpg) to a remote server (server_1).
+25-06-2020 13:57:00.1593093420.2179 [::1][5ef4ad][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:57:00.1593093420.4164 [::1][5ef4ad][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/carpenter-150x150.jpg) to a remote server (server_1).
+25-06-2020 13:57:00.1593093420.5945 [::1][5ef4ad][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:57:00.1593093420.6976 [::1][5ef4ad][info] Preparing to upload a file (C:/wamp64/www/lederg/wp-content/uploads/2020/06/carpenter-300x200.jpg) to a remote server (server_1).
+25-06-2020 13:57:00.1593093420.9199 [::1][5ef4ad][info] File successfully uploaded to remote server (server_1).
+25-06-2020 13:57:01.1593093421.0274 [::1][5ef4ad][debug] New queue created #41, attributes values: {"server_id":null,"object_id":1549,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":109676,"final_size":65084,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":83239,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593093421}
+26-06-2020 09:13:49.1593162829.5584 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol4a-scaled.jpg) to a remote server (server_1).
+26-06-2020 09:13:49.1593162829.9822 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:13:50.1593162830.2038 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol4a-150x150.jpg) to a remote server (server_1).
+26-06-2020 09:13:50.1593162830.3319 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:13:50.1593162830.4142 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol4a-300x225.jpg) to a remote server (server_1).
+26-06-2020 09:13:50.1593162830.5543 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:13:50.1593162830.6417 [195.117.177.5][5ef5bc][debug] New queue created #42, attributes values: {"server_id":null,"object_id":1559,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":612899,"final_size":113858,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":595052,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593162830}
+26-06-2020 09:13:52.1593162832.9688 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol4b.jpg) to a remote server (server_1).
+26-06-2020 09:13:53.1593162833.315 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:13:53.1593162833.4625 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol4b-150x150.jpg) to a remote server (server_1).
+26-06-2020 09:13:53.1593162833.5946 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:13:53.1593162833.6732 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol4b-300x188.jpg) to a remote server (server_1).
+26-06-2020 09:13:53.1593162833.8076 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:13:53.1593162833.8898 [195.117.177.5][5ef5bc][debug] New queue created #43, attributes values: {"server_id":null,"object_id":1560,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":1390117,"final_size":64140,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":1374950,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593162833}
+26-06-2020 09:13:56.1593162836.0372 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol5a.jpg) to a remote server (server_1).
+26-06-2020 09:13:56.1593162836.3943 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:13:56.1593162836.5814 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol5a-150x150.jpg) to a remote server (server_1).
+26-06-2020 09:13:56.1593162836.7183 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:13:56.1593162836.7979 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol5a-300x199.jpg) to a remote server (server_1).
+26-06-2020 09:13:56.1593162836.9381 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:13:57.1593162837.0206 [195.117.177.5][5ef5bc][debug] New queue created #44, attributes values: {"server_id":null,"object_id":1561,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":582380,"final_size":97149,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":562107,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593162837}
+26-06-2020 09:13:58.1593162838.7197 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol6a.jpg) to a remote server (server_1).
+26-06-2020 09:13:58.1593162838.9387 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:13:59.1593162839.0511 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol6a-150x150.jpg) to a remote server (server_1).
+26-06-2020 09:13:59.1593162839.2151 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:13:59.1593162839.2924 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol6a-300x252.jpg) to a remote server (server_1).
+26-06-2020 09:13:59.1593162839.4573 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:13:59.1593162839.5711 [195.117.177.5][5ef5bc][debug] New queue created #45, attributes values: {"server_id":null,"object_id":1562,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":112358,"final_size":64546,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":71097,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593162839}
+26-06-2020 09:14:00.1593162840.4089 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol7a.jpg) to a remote server (server_1).
+26-06-2020 09:14:00.1593162840.6147 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:14:00.1593162840.7262 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol7a-150x150.jpg) to a remote server (server_1).
+26-06-2020 09:14:00.1593162840.8921 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:14:00.1593162840.9693 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol7a-300x273.jpg) to a remote server (server_1).
+26-06-2020 09:14:01.1593162841.1401 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:14:01.1593162841.2575 [195.117.177.5][5ef5bc][debug] New queue created #46, attributes values: {"server_id":null,"object_id":1563,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":104199,"final_size":60471,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":66731,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593162841}
+26-06-2020 09:14:02.1593162842.9501 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol7b.jpg) to a remote server (server_1).
+26-06-2020 09:14:03.1593162843.1623 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:14:03.1593162843.2748 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol7b-150x150.jpg) to a remote server (server_1).
+26-06-2020 09:14:03.1593162843.4446 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:14:03.1593162843.522 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol7b-300x212.jpg) to a remote server (server_1).
+26-06-2020 09:14:03.1593162843.6862 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:14:03.1593162843.769 [195.117.177.5][5ef5bc][debug] New queue created #47, attributes values: {"server_id":null,"object_id":1564,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":89235,"final_size":55347,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":55195,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593162843}
+26-06-2020 09:14:07.1593162847.9945 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol8a.png) to a remote server (server_1).
+26-06-2020 09:14:08.1593162848.728 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:14:08.1593162848.9584 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol8a-150x150.png) to a remote server (server_1).
+26-06-2020 09:14:09.1593162849.1729 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:14:09.1593162849.286 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol8a-300x224.png) to a remote server (server_1).
+26-06-2020 09:14:09.1593162849.6182 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:14:09.1593162849.7402 [195.117.177.5][5ef5bc][debug] New queue created #48, attributes values: {"server_id":null,"object_id":1565,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":1024053,"final_size":307148,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":882133,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593162849}
+26-06-2020 09:14:14.1593162854.5309 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol8b.png) to a remote server (server_1).
+26-06-2020 09:14:15.1593162855.1251 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:14:15.1593162855.3429 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol8b-150x150.png) to a remote server (server_1).
+26-06-2020 09:14:15.1593162855.5559 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:14:15.1593162855.6787 [195.117.177.5][5ef5bc][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/stol8b-300x198.png) to a remote server (server_1).
+26-06-2020 09:14:15.1593162855.9406 [195.117.177.5][5ef5bc][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:14:16.1593162856.0573 [195.117.177.5][5ef5bc][debug] New queue created #49, attributes values: {"server_id":null,"object_id":1566,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":824431,"final_size":277710,"original_mime_type":"image\/png","final_mime_type":"image\/png","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":702146,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593162856}
+26-06-2020 09:23:02.1593163382.9765 [195.117.177.5][5ef5be][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/wax.jpg) to a remote server (server_1).
+26-06-2020 09:23:03.1593163383.2083 [195.117.177.5][5ef5be][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:23:03.1593163383.3321 [195.117.177.5][5ef5be][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/wax-150x150.jpg) to a remote server (server_1).
+26-06-2020 09:23:03.1593163383.4641 [195.117.177.5][5ef5be][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:23:03.1593163383.5495 [195.117.177.5][5ef5be][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/wax-300x300.jpg) to a remote server (server_1).
+26-06-2020 09:23:03.1593163383.7646 [195.117.177.5][5ef5be][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:23:03.1593163383.8567 [195.117.177.5][5ef5be][debug] New queue created #50, attributes values: {"server_id":null,"object_id":1574,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":53886,"final_size":29531,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":33961,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593163383}
+26-06-2020 09:28:09.1593163689.9176 [195.117.177.5][5ef5bf][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/chair1a.jpg) to a remote server (server_1).
+26-06-2020 09:28:10.1593163690.2621 [195.117.177.5][5ef5bf][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:28:10.1593163690.4174 [195.117.177.5][5ef5bf][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/chair1a-150x150.jpg) to a remote server (server_1).
+26-06-2020 09:28:10.1593163690.5546 [195.117.177.5][5ef5bf][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:28:10.1593163690.6393 [195.117.177.5][5ef5bf][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/chair1a-167x300.jpg) to a remote server (server_1).
+26-06-2020 09:28:10.1593163690.767 [195.117.177.5][5ef5bf][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:28:10.1593163690.8467 [195.117.177.5][5ef5bf][debug] New queue created #51, attributes values: {"server_id":null,"object_id":1577,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":105748,"final_size":80067,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":91579,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593163690}
+26-06-2020 09:28:11.1593163691.9321 [195.117.177.5][5ef5bf][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/chair1b.jpg) to a remote server (server_1).
+26-06-2020 09:28:12.1593163692.2821 [195.117.177.5][5ef5bf][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:28:12.1593163692.4332 [195.117.177.5][5ef5bf][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/chair1b-150x150.jpg) to a remote server (server_1).
+26-06-2020 09:28:12.1593163692.5677 [195.117.177.5][5ef5bf][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:28:12.1593163692.6538 [195.117.177.5][5ef5bf][info] Preparing to upload a file (/home/platne/serwer62081/public_html/lederg/wp-content/uploads/2020/06/chair1b-172x300.jpg) to a remote server (server_1).
+26-06-2020 09:28:12.1593163692.7943 [195.117.177.5][5ef5bf][info] File successfully uploaded to remote server (server_1).
+26-06-2020 09:28:12.1593163692.8887 [195.117.177.5][5ef5bf][debug] New queue created #52, attributes values: {"server_id":null,"object_id":1578,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"ultra","is_backed_up":true,"original_size":116392,"final_size":87341,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":2,\"original_main_size\":101251,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1593163692}
